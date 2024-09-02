@@ -1,0 +1,36 @@
+# Dependencias de Node.js
+node_modules/
+
+# Salidas de compilación
+.next/
+dist/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de paquetes
+.pnp
+.pnp.js
+
+# Salidas de compilación de TypeScript
+*.tsbuildinfo
+
+# Archivos de bloqueo
+package-lock.json
+yarn.lock
+
+# Directorios de IDEs/editores
+.vscode/
+.idea/
+
+# Otros archivos grandes o específicos del sistema
+*.log
